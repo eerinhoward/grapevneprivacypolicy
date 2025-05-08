@@ -1,0 +1,94 @@
+# Privacy Policy for Grapevne
+
+Last Updated: [Current Date]
+
+## 1. Information We Collect
+
+### 1.1 Information You Provide
+- Account information (email address, username)
+- Profile information (emoji, profile picture)
+- Content you post (food photos, descriptions, locations)
+- Dietary preferences and tags
+- School affiliation
+
+### 1.2 Information We Collect Automatically
+- Device information (device ID, FCM token for notifications)
+- Location data (to show food items near you)
+- Usage data (interactions with posts, notifications)
+- Photos (when you choose to share food images)
+
+### 1.3 Information from Third Parties
+- Firebase Authentication data
+- School-specific information
+
+## 2. How We Use Your Information
+
+### 2.1 To Provide Our Services
+- Display and manage food posts
+- Show relevant food items on the map
+- Send notifications about new posts and interactions
+- Manage user connections and following
+- Handle dietary preference filtering
+
+### 2.2 To Improve Our Services
+- Analyze app usage patterns
+- Improve user experience
+- Develop new features
+- Maintain app security
+
+### 2.3 To Communicate With You
+- Send notifications about:
+  - New food posts
+  - Post expirations
+  - Saved post updates
+  - User interactions
+  - System updates
+
+## 3. Information Sharing
+
+### 3.1 With Other Users
+- Your posts are visible to other users
+- Your username and profile picture are visible
+- Your location data is shared when you post
+
+### 3.2 With Service Providers
+- Firebase (authentication, database, storage)
+- Apple (push notifications, maps)
+
+### 3.3 Legal Requirements
+We may share information if required by law or to protect our rights.
+
+## 4. Your Choices
+
+### 4.1 Account Information
+- You can update your profile information
+- You can delete your account
+- You can control notification preferences
+
+### 4.2 Location Data
+- You can control location permissions
+- You can disable location services
+
+### 4.3 Notifications
+- You can manage notification preferences
+- You can disable specific notification types
+- You can opt out of all notifications
+
+## 5. Data Security
+- We use Firebase security rules
+- We implement authentication measures
+- We protect user data in transit and at rest
+
+## 6. Data Retention
+- We retain your data as long as your account is active
+- You can request data deletion
+- Some data may be retained for legal purposes
+
+## 7. Children's Privacy
+This app is not intended for users under 13 years of age.
+
+## 8. Changes to This Policy
+We may update this policy. We will notify you of any material changes.
+
+## 9. Contact Us
+For privacy-related questions, contact us at [Your Contact Information]
